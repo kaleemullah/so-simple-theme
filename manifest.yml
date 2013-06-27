@@ -1,0 +1,10 @@
+---
+name : so-simple-theme
+website :  http://mmistakes.github.io/so-simple-theme/theme-setup/
+description :  "A so-simple-theme theme for Jekyll + Jekyll-Bootstrap."
+git_url : https://github.com/mmistakes/so-simple-theme.git
+source_url : https://github.com/mmistakes/so-simple-theme
+author:
+  name : Michael Rose
+  email : michael@mademistakes.com
+  website : http://mademistakes.com
